@@ -1,0 +1,25 @@
+Query
+1.QR used to determine the number of staff in each branch of the department.
+2.QR used to show the managers (HOD) and their employees.
+3.QR used to show details of patient that has been discharged but have not paid the bills yet.
+4.QR used to show the date intake of each medicine and its quantity for each Patient.
+5.QR used to update the phone number of a particular patient.
+6.QR used to update a room’s type and its capacity in the event of renovation.
+7.QR used to insert additional medicine administrated and its details to a patient.
+8.QR used to insert new room details in the event of renovation and build of new infrastructure.
+9.QR used to show the total amount of credit needed to distribute to each department.
+10.QR used to list the details of patient that is underage (18) to comply with certain age ToS.
+
+Stored Procedure
+1.Stored Procedure used to update the head of department responsible for that particular department, which also changes the Department of the soon-will-be HOD in their Staff Profile.
+2.Stored Procedure used to show the list of medicine that is expired with the given date.
+3.Stored Procedure used to update the assignment of a staff to a patient.
+4.Stored Procedure used to switch the bed of 2 different patient.
+5.Stored Procedure used to show the number and details of staff birthday on a particular month.
+
+Function
+1.FN used to determine a staff's salary percentage share of the total distributed funds to their respective department.
+2.FN used to calculate the total funds needed by a department over a selected period of months.
+3.FN used to determine maintenance required by 'OCCUPIED' beds over a certain period of months. (Assume maintenance cost is 110 it's price)
+4.FN used to return number of days stayed in the hospital of a patient, used in conjuction with discharged status.
+5.FN used to determine the amount of day has passed since since the discharged that of a patient that has yet to paid the bill.
