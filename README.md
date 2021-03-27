@@ -1,5 +1,4 @@
-# uccd2203_db
-UCCD2203 Database Schema and Queries
+# UCCD2203 Database Schema and Queries
 
 Script written base on Oracle 11g SQL+ DBMS
 
